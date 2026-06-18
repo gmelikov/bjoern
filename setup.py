@@ -42,7 +42,7 @@ bjoern_extension = Extension(
 )
 
 setup(
-    name         = 'bjoern',
+    name         = 'bjoern-binary',
     author       = 'Jonas Haag',
     author_email = 'jonas@lophus.org',
     license      = '2-clause BSD',
